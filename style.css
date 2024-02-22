@@ -1,0 +1,27 @@
+.homepage {
+    text-align: center;
+}
+
+body {
+    background-color: bisque;
+}
+h1 {
+    font-weight: 700;
+    font-size: xx-large;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: x-large;
+}
+.recipe {
+    font-size: large
+}
+
+.pumpkin {
+    color: orange;
+}
+
+.chocolate {
+    color: brown;
+}
