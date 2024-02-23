@@ -7,20 +7,22 @@ html {
 }
 
 body {
-    background-color: bisque;
+    background-color: #EADDCA;
+    color: #3A3733;
 }
 h1 {
     font-weight: 700;
     font-size: 50px;
+    text-align: center;
 }
 
 h2 {
     font-weight: 600;
-    font-size: 60px;
+    font-size: 30px;
 }
 .recipe {
     font-size: large;
-    background-color: #E5AA70;
+    background-color: #EFE5D7;
     padding: 10px;
     margin: 5px auto;
     width: 400px;
@@ -35,11 +37,35 @@ h2 {
     color: brown;
 }
 
+.plain {
+    color: #3A3733;
+}
+
 .topic {
-    background-color: #E5AA70;
+    background-color: #EFE5D7;
     padding: 10px;
     border: 1px black;
     margin: 10px auto;
     height: 60px;
     width: 500px;
+}
+
+div {
+    background-color: #EFE5D7;
+    height: auto;
+    width: 480px;
+    margin: 10px auto;
+    padding: 0px 5px;
+}
+
+img {
+    height: auto;
+    width: 490px;
+    margin: 0px auto;
+    display: block;
+}
+
+.topic {
+    color: #3A3733;
+
 }
