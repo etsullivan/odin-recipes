@@ -1,3 +1,7 @@
+html {
+    box-sizing: border-box;
+}
+
 .homepage {
     text-align: center;
 }
@@ -7,15 +11,20 @@ body {
 }
 h1 {
     font-weight: 700;
-    font-size: xx-large;
+    font-size: 50px;
 }
 
 h2 {
     font-weight: 600;
-    font-size: x-large;
+    font-size: 60px;
 }
 .recipe {
-    font-size: large
+    font-size: large;
+    background-color: #E5AA70;
+    padding: 10px;
+    margin: 5px auto;
+    width: 400px;
+
 }
 
 .pumpkin {
@@ -24,4 +33,13 @@ h2 {
 
 .chocolate {
     color: brown;
+}
+
+.topic {
+    background-color: #E5AA70;
+    padding: 10px;
+    border: 1px black;
+    margin: 10px auto;
+    height: 60px;
+    width: 500px;
 }
